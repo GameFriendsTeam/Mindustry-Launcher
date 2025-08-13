@@ -30,7 +30,7 @@ target/
 !**/src/test/**/target/
 game/
 logs/
-*.jar
+/*.jar
 .idea
 .mvn
 
